@@ -1,0 +1,115 @@
+#skills .row{
+    padding: 2rem 0rem;
+  }
+
+  #skills img{
+    width: 286px;
+    height: 180px;
+  }
+
+  #home img{
+     width:100%;
+     height: 750px;
+     /* margin-bottom: 50px; */
+    
+  }
+
+   .nav-link{
+      color: white!important;
+      font: bold!important;
+      font-size: 20px!important;
+  }
+
+   .homescreen{
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  #carouselExampleIndicators
+  {
+    position: absolute;
+    top:40%;
+    /* left: 20%; */
+    width: 100%;
+  }
+
+  pre{
+      color: azure;
+  }
+
+  .navbar{
+    background-image: linear-gradient(to right,purple , orange);
+  }
+
+  .right-col{
+    margin-left: 51%;
+    margin-top: -25px;
+  }
+  .left-col{
+    float: left;
+    margin-left: 1%;
+    margin-top: -25px;
+  }
+
+  .about-heading{
+    font-size: 25px;
+    color:purple;
+    margin-right: 5px;
+  }
+
+  .about-body{
+    font-size: 22px;
+    color:azure;
+    margin-left:10px ;
+  }
+
+  .carousel-item img{
+    float: left;
+    width: 10%;
+    height: 10%;
+    margin: 10px;
+    margin-left: 20%;
+    margin-top: 2%;
+  }
+  .carousel-item h3{
+    margin-left: 50%;
+    margin-top: 3%;
+  }
+  .carousel-item i{
+    margin-left: 20%;
+    margin-top: 5%;
+  }
+
+  .feedback{
+    margin-bottom: 100px;
+  }
+
+  #skills .card{
+    background-color: transparent!important;
+    border: none!important;
+  }
+
+  .input-group-text{
+    background-color: purple;
+    border-color:purple ;
+    color: azure;
+}
+
+.form-control
+{
+  background-color: transparent;
+    border-color:purple ;
+    color: azure;
+}
+
+::placeholder{
+  color: beige;
+}
